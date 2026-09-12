@@ -1,6 +1,6 @@
 # Advanced Excel — Retail Sales Performance Analysis
 
-> A **working Excel workbook** on 57,542 real order lines, built with the formula patterns that carry actual analytical weight — `SUMPRODUCT`, `INDEX`/`MATCH`, `LARGE`, `PERCENTILE.INC`, structured references, two-way lookups — plus a **Power Query (M)** loader.
+> A **working Retail Sales Performance Analysis** on 57,542 real order lines, built with the formula patterns that carry actual analytical weight — `SUMPRODUCT`, `INDEX`/`MATCH`, `LARGE`, `PERCENTILE.INC`, structured references, two-way lookups — plus a **Power Query (M)** loader.
 
 [![Excel](https://img.shields.io/badge/Excel-2016%20compatible-217346?style=flat&logo=microsoftexcel&logoColor=white)](./workbook/Sales_Analytics_Excel.xlsx)
 [![Power Query](https://img.shields.io/badge/Power%20Query-M-F2C811?style=flat&logo=powerbi&logoColor=black)](./power_query/load_sales.m)
