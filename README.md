@@ -98,19 +98,9 @@ Three things in this source would silently distort a report built on it:
 
 ---
 
-## Related projects
-
-| Project | Angle |
-|---|---|
-| [ecommerce-sales-analysis](https://github.com/ANAPBORGES/ecommerce-sales-analysis) | The same theLook data in **BigQuery SQL** — RFM, cohorts, window functions |
-| [saas-financial-kpis](https://github.com/ANAPBORGES/saas-financial-kpis) | **Power BI** — DAX, star schema, time intelligence |
-| [tableau-sales-profitability-dashboard](https://github.com/ANAPBORGES/tableau-sales-profitability-dashboard) | **Tableau** — LOD, maps, what-if parameters |
-
----
-
 <div align="center">
 
-**Ana Paula Borges** · Senior Data Analyst & Team Leader
-[LinkedIn](https://linkedin.com/in/ana-paula-d-araújo-borges) · [ap.daraujo@gmail.com](mailto:ap.daraujo@gmail.com)
+**Ravikant Bhardwaj** ·  Data Analyst 
+https://github.com/rkb931566-spec
 
 </div>
