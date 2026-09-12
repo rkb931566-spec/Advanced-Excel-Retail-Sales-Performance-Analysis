@@ -1,4 +1,4 @@
-# Advanced Excel — Retail Sales Performance Analysis
+# Advanced Excel — Sales Analytics & Dashboard
 
 > A **working  Excel workbook ** on 57,542 real order lines, built with the formula patterns that carry actual analytical weight — `SUMPRODUCT`, `INDEX`/`MATCH`, `LARGE`, `PERCENTILE.INC`, structured references, two-way lookups — plus a **Power Query (M)** loader.
 
